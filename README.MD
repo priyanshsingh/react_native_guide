@@ -16,4 +16,24 @@ Read the documentation [here](https://reactnative.dev/docs/getting-started)
 - All the code can be written in **JavaScript** and that code can be shared to make the IOS as well as the android application.
 - IOS Development use **Objective C** or **Swing**.
 - Android development use **Java** or **Kotlin**.
-- 
+- Some common **examples** of apps that are built using **React Native** are:
+  - **Facebook**
+  - **Instagram**
+  - **Pinterest**
+  - **Skype**
+  - **Uber Eats**
+- There are **two** ways to build a **React Native** app:
+  - **Expo CLI**
+  - **React Native CLI**
+- **Expo CLI** -> Expo is a set of **tools** and **framework** that sit on top of **React Native** and hides a lot of complexity from us. It makes incredibly **fast and easy** to build React Native Apps.
+
+<br>
+
+<p align="center" style="font-size: 170%">We will Build our First React Native App using EXPO CLI !!!</p>
+<p align="center">
+<img src = "https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" style="max-width: 18%"></p>
+<br>
+
+## Setting Up the Development Enviornment
+
+
