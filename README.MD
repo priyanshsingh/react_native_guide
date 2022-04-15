@@ -34,6 +34,16 @@ Read the documentation [here](https://reactnative.dev/docs/getting-started)
 <img src = "https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" style="max-width: 18%"></p>
 <br>
 
+
 ## Setting Up the Development Enviornment
+### Installation:-
+- Install Node.js
+- Install Git
+- Install VS Code
+  - Add the VS Code Expo Extension
+- Install Yarn
+  - Global install ->```npm install --global yarn```
+  - Check version -> ```yarn --version```
+- Make sure that Windows Powershell is working properly
 
 
