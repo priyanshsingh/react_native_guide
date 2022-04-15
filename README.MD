@@ -28,11 +28,13 @@ Read the documentation [here](https://reactnative.dev/docs/getting-started)
 - **Expo CLI** -> Expo is a set of **tools** and **framework** that sit on top of **React Native** and hides a lot of complexity from us. It makes incredibly **fast and easy** to build React Native Apps.
 
 <br>
-
-<p align="center" style="font-size: 170%">We will Build our First React Native App using EXPO CLI !!!</p>
 <p align="center">
 <!-- <img src = "https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" style="max-width: 18%"></p> -->
 <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="drawing" style="width:100px;"/>
+<h2 align='center'>We will Build our First React Native App using EXPO CLI !!!</h2>
+</p>
+<!-- <img src = "https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" style="max-width: 18%"></p> -->
+<!-- <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="drawing" style="width:100px;"/> -->
 
 <br>
 
