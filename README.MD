@@ -41,7 +41,10 @@ Read the documentation [here](https://reactnative.dev/docs/getting-started)
 
 ## Setting Up the Development Enviornment
 ### Installation:-
-- Install Node.js
+- Install Node.js -> **V12.0.0** or higher
+- Install **Expo CLI** -> 
+  ```npm i -g expo-cli```
+- Download and install the Expo App on your mobile device -> **Expo** for Android and **Expo Go** for IOS devices
 - Install Git
 - Install VS Code
   - Add the VS Code Expo Extension
@@ -49,5 +52,16 @@ Read the documentation [here](https://reactnative.dev/docs/getting-started)
   - Global install ->```npm install --global yarn```
   - Check version -> ```yarn --version```
 - Make sure that Windows Powershell is working properly
+- **Extensions** for VS Code
+  - **React Native Tools** (by **Microsoft**)
+  - **React Native/React/Redux Snippets** (by **EQuimper**)
+  - **Prettier** for formatting the code (by **Esban Peterson**)
+  
+<br>
 
 
+## Your First App
+
+Type the following command in a repo, in CMD:
+
+    ```expo init app_name```
